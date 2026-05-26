@@ -1,2 +1,3 @@
 # kirtika-sharma
-this is my first Git Repository
+This is my first Git Repository
+Author - kirtika sharma
